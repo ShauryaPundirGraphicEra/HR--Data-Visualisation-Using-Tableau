@@ -8,7 +8,6 @@ This is the Data Visualisation done on the HR Dataset in which we will answer th
 2) Gender distribution 
 3) Age spread of our staff
 4) Which jobs pay more? 
-5) Qualification vs. Salary 
-6) Staff growth trend in the last 5 years
-7) Job title vs Leave 
-8) Quick HR Dashboard
+5) Qualification vs. Salary
+6) Job title vs Leave  
+7) Staff growth trend in the last 5 years
